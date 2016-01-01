@@ -36,7 +36,7 @@ I did not understand how to add code to the settings page so I decided to add a 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2015 Rachel Knoche
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
